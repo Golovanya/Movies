@@ -1,6 +1,6 @@
 ## VK_Movies
 Тестовое задание компании VK
-
+[Реализация проекта]()
 ### В приложении реализованы
 + Вывод 50 фильмов на страницу с помощью kinopoisk API
 + Пагинация
@@ -15,7 +15,7 @@
 + React-router, Redux-toolkit, Axios
 + MUI, Tailwind
 
-  #####Главная страница:
+#### Главная страница:
 <p align="center">
  <img width="900px" src="/src/assets/ScreenMovie.JPG" alt="qr"/>
 </p>
