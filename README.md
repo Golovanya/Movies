@@ -13,7 +13,9 @@
 #### Используемые технологии
 + React, TypeScript
 + React-router, Redux-toolkit, Axios
-+ MUI, Tailwind 
++ MUI, Tailwind
+
+  #####Главная страница:
 <p align="center">
  <img width="900px" src="/src/assets/ScreenMovie.JPG" alt="qr"/>
 </p>
