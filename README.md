@@ -15,7 +15,7 @@
 + React-router, Redux-toolkit, Axios
 + MUI, Tailwind 
 <p align="center">
- <img width="200px" src="/src/assets/ScreenMovie.JPG" alt="qr"/>
+ <img width="900px" src="/src/assets/ScreenMovie.JPG" alt="qr"/>
 </p>
 
 Для запуска проекта необходимо клонировать репозиторий, выполнить npm install
