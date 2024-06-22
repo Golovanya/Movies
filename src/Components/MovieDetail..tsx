@@ -4,7 +4,7 @@ import axios from "axios";
 import { Container, Typography } from "@mui/material";
 import { Imovie } from "../types/types";
 const URL = "https://api.kinopoisk.dev/v1.4/movie";
-const TOKEN = "K6ZYE04-Y7V4H63-PJRT2D6-P4ST2G0";
+const TOKEN = "JGRCFEX-KZNM1K7-QYTF2J9-GNQ7XJ8";
 
 function MovieDetail() {
   const [movie, setMovie] = useState<null | Imovie>(null);
