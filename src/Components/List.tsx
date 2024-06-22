@@ -17,7 +17,7 @@ import { useEffect, useState } from "react";
 import { IData } from "../types/types";
 import mockGenres from "../MockData/mockGenres";
 const URL = "https://api.kinopoisk.dev/v1.4/movie";
-const TOKEN = "K6ZYE04-Y7V4H63-PJRT2D6-P4ST2G0";
+const TOKEN = "JGRCFEX-KZNM1K7-QYTF2J9-GNQ7XJ8";
 const limit = 50;
 const selectFields = [
   "id",
